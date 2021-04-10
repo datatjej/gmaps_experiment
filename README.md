@@ -1,5 +1,4 @@
 # gmaps_experiment
-# TEST
 
 Experiments with the Google Maps APIs *Directions* and *DistanceMatrix*
 
